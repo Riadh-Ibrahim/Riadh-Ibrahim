@@ -8,7 +8,7 @@ I'm Riadh Ibrahim, a 21-year-old student pursuing Computer Networks and Telecomm
 
 Let's connect and explore the exciting world of technology together!
 
-## Languages & Frameworks
+## Languages & Frameworks :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
@@ -21,7 +21,7 @@ Let's connect and explore the exciting world of technology together!
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 
-## Tools & Technologies
+## Tools & Technologies :
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
