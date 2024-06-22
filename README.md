@@ -1,6 +1,6 @@
 # Hi there ! 👋
 
-I'm Riadh Ibrahim, a 21-year-old student pursuing Computer Networks and Telecommunication at INSAT. I'm passionate about technology and always eager to learn new things.
+I'm Riadh Ibrahim, a 22-year-old student pursuing Computer Networks and Telecommunication at INSAT. I'm passionate about technology and always eager to learn new things.
 
 💻 As an intermediate web developer, I've dabbled in various programming languages and frameworks, constantly seeking to expand my skills and knowledge. I find joy in crafting digital experiences and solving problems through code.
 
