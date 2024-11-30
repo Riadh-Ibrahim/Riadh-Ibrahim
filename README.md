@@ -18,13 +18,13 @@ Let's connect and explore the exciting world of technology together!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react&logoColor=white)
+![Amgular.js](https://img.shields.io/badge/-Angular.js-blue?style=flat-square&logo=react&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-blue?style=flat-square&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white)
 
 ## Tools & Technologies :
 
