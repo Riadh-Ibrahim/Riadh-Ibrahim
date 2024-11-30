@@ -11,8 +11,7 @@ Let's connect and explore the exciting world of technology together!
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riadh-Ibrahim&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Riadh-Ibrahim&color=blue)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riadh-Ibrahim&layout=compact&theme=radical) 
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riadh-Ibrahim&layout=compact&theme=radical&langs_count=8)
 
 ## Languages & Frameworks :
 
