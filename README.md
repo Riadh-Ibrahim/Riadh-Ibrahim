@@ -8,6 +8,11 @@ I'm Riadh Ibrahim, a 22-year-old student pursuing Computer Networks and Telecomm
 
 Let's connect and explore the exciting world of technology together!
 
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riadh-Ibrahim&show_icons=true&theme=radical)
+![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riadh-Ibrahim&layout=compact&theme=radical)
+
 ## Languages & Frameworks :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
