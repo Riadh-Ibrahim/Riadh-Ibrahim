@@ -4,7 +4,8 @@ I'm Riadh Ibrahim, a 22-year-old student pursuing Computer Networks and Telecomm
 
 💻 As a Full-stack web developer, I've dabbled in various programming languages and frameworks, constantly seeking to expand my skills and knowledge. I find joy in crafting digital experiences and solving problems through code.
 
-🌱 Whether it's mastering a new programming language, exploring emerging technologies, or diving deeper into networking concepts, I thrive on the journey of continuous learning and growth.
+🌱 Whether it's mastering a new programming language, exploring emerging technologies, or diving deeper into networking concepts, 
+I thrive on the journey of continuous learning and growth.
 
 Let's connect and explore the exciting world of technology together!
 
