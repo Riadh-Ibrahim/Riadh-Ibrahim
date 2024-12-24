@@ -22,15 +22,14 @@ Let's connect and explore the exciting world of technology together!
 ![Angular.js](https://img.shields.io/badge/-Angular.js-blue?style=flat-square&logo=Angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat-square&logo=express&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-blue?style=flat-square&logo=Nest&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?style=flat-square&logo=spring-boot&logoColor=white)
 
 ## Tools & Technologies :
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
