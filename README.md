@@ -30,6 +30,7 @@ Let's connect and explore the exciting world of technology together!
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Jenkins-blue?style=flat-square&logo=Jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
