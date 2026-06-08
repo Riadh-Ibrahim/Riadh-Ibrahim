@@ -11,9 +11,8 @@ Let's connect and explore the exciting world of technology together!
 
 ### 📊 GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Riadh-Ibrahim&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riadh-Ibrahim&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Riadh-Ibrahim&theme=radical)
+![Snake animation](https://raw.githubusercontent.com/Riadh-Ibrahim/Riadh-Ibrahim/output/github-contribution-grid-snake.svg)
 
 ## Languages & Frameworks :
 
