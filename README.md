@@ -20,13 +20,10 @@ Let's connect and explore the exciting world of technology together!
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
 
 ### Frontend
 
 ![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
@@ -35,7 +32,6 @@ Let's connect and explore the exciting world of technology together!
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Spring](https://skillicons.dev/icons?i=spring)
 
 ### Databases
 
@@ -43,8 +39,9 @@ Let's connect and explore the exciting world of technology together!
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### Cloud & DevOps
+### Cloud & DevOp
 
+![Aws](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
