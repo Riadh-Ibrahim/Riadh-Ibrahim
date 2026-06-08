@@ -1,6 +1,6 @@
 # Hi there ! 👋
 
-I'm Riadh Ibrahim, a 23-year-old student pursuing ICT engineering at INSAT. I'm passionate about technology and always eager to learn new things.
+I'm Riadh Ibrahim, a 24-year-old student pursuing ICT engineering at INSAT. I'm passionate about technology and always eager to learn new things.
 
 💻 As a Full-stack web developer and AI/ML enthusiast, I've dabbled in various programming languages and frameworks, constantly seeking to expand my skills and knowledge. I find joy in crafting digital experiences, developing intelligent solutions, and solving problems through code.
 
