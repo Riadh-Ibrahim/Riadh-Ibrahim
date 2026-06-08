@@ -11,8 +11,8 @@ Let's connect and explore the exciting world of technology together!
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Riadh-Ibrahim&show_icons=true&theme=radical)
-![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riadh-Ibrahim&layout=compact&theme=radical&langs_count=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Riadh-Ibrahim&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Riadh-Ibrahim&theme=react-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Riadh-Ibrahim&theme=radical)
 
 ## Languages & Frameworks :
