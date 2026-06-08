@@ -1,50 +1,17 @@
-# Hi there! 👋
+# Hi there ! 👋
 
-I'm **Riadh Ibrahim**, an ICT Engineering student at INSAT, passionate about building scalable software, cloud-native solutions, and intelligent systems.
+I'm Riadh Ibrahim, a 24-year-old student pursuing ICT engineering at INSAT. I'm passionate about technology and always eager to learn new things.
 
-💻 I have experience as a **Full-Stack Developer**, working with modern web technologies to design and develop applications ranging from reservation platforms to real-time interactive systems.
+💻 As a Full-stack web developer and AI/ML enthusiast, I've dabbled in various programming languages and frameworks, constantly seeking to expand my skills and knowledge. I find joy in crafting digital experiences, developing intelligent solutions, and solving problems through code.
 
-☁️ My interests extend to **Cloud Computing, DevOps, Networking, and Virtualization**, where I enjoy exploring containerized environments, automation, infrastructure management, and distributed systems.
+🌱 Whether it's mastering a new programming language, exploring emerging technologies, or diving deeper into networking concepts, 
+I thrive on the journey of continuous learning and growth.
 
-🤖 I'm also interested in **Artificial Intelligence and Machine Learning**, particularly in computer vision and deep learning applications. Currently, I'm expanding my research experience through projects involving image matching and AI-driven solutions.
+Let's connect and explore the exciting world of technology together!
 
-🔬 During my internship at Macro-IT, I developed a VM reservation platform that automates virtual machine provisioning in EVE-NG using Ansible and delivers access credentials automatically to users. More recently, I joined a research project at the Université de Moncton, focusing on advanced computer vision and image matching techniques.
-
-🌱 I'm always looking for opportunities to learn, collaborate, and contribute to impactful projects at the intersection of software engineering, cloud technologies, and AI.
-
----
-
-## 📊 GitHub Activity
+### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Riadh-Ibrahim&theme=radical)
-
-![Snake animation](https://raw.githubusercontent.com/Riadh-Ibrahim/Riadh-Ibrahim/output/github-contribution-grid-snake.svg)
-
----
-
-## 🚀 Featured Projects
-
-### Virtual Machine Reservation Platform
-
-- Automated VM provisioning in EVE-NG
-- Calendar-based reservation system
-- JWT authentication and authorization
-- Email notifications with SSH access details
-- Built with MERN Stack and Ansible
-
-### Football Quiz Platform
-
-- Interactive quizzes and leaderboards
-- Real-time user engagement features
-- World Cup-focused content and events
-
-### AI & Computer Vision Research
-
-- Deep learning-based image matching
-- Feature extraction and geometric verification
-- Research-oriented experimentation and evaluation
-
----
 
 ## 🛠️ Tech Stack
 
@@ -83,30 +50,6 @@ I'm **Riadh Ibrahim**, an ICT Engineering student at INSAT, passionate about bui
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
 ![Linux](https://skillicons.dev/icons?i=linux)
-
-### AI / ML
-
-- Computer Vision
-- Deep Learning
-- Image Matching
-- Feature Extraction
-
----
-
-## 🎓 Education
-
-**ICT Engineering**  
-INSAT - National Institute of Applied Sciences and Technology, Tunisia
-
----
-
-## 🌍 Languages
-
-- 🇹🇳 Arabic (Native)
-- 🇫🇷 French (Professional)
-- 🇬🇧 English (Professional)
-
----
 
 ## 📫 Connect With Me
 
